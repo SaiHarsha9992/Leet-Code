@@ -12,13 +12,20 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
