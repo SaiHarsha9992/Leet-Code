@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
+## String
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
