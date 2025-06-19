@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
