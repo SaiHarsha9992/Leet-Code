@@ -36,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
@@ -51,4 +52,8 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
