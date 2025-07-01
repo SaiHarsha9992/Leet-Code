@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
@@ -47,6 +48,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 ## Simulation
@@ -61,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
