@@ -11,11 +11,13 @@
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
+| [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 ## Tree
 |  |
@@ -79,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
+| [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 ## Backtracking
 |  |
