@@ -8,6 +8,7 @@
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
@@ -73,6 +74,7 @@
 | [0001-two-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 ## Backtracking
@@ -87,6 +89,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0547-number-of-provinces) |
 ## Graph
