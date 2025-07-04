@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
