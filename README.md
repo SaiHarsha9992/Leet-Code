@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -74,6 +76,7 @@
 | [0001-two-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
@@ -98,4 +101,8 @@
 | [0547-number-of-provinces](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1916-find-center-of-star-graph) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
