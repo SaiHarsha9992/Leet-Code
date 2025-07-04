@@ -48,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Matrix
@@ -72,6 +73,7 @@
 | [0001-two-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 ## Backtracking
 |  |
