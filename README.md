@@ -14,6 +14,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
@@ -85,6 +86,7 @@
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
