@@ -26,11 +26,13 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -38,6 +40,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 ## Design
 |  |
