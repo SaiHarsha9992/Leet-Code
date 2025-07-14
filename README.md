@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
 | ------- |
