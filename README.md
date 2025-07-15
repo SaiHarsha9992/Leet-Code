@@ -60,12 +60,14 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Matrix
@@ -132,6 +134,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
