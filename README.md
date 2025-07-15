@@ -13,6 +13,7 @@
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
 |  |
 | ------- |
