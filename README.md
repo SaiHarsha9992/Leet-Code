@@ -16,6 +16,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Linked List
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,6 +126,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Dynamic Programming
 |  |
 | ------- |
