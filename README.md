@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0279-perfect-squares) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
@@ -110,6 +111,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 ## Design
