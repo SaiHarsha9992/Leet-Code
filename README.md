@@ -32,6 +32,7 @@
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2121-find-if-path-exists-in-graph) |
@@ -54,6 +56,7 @@
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -166,4 +169,5 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
