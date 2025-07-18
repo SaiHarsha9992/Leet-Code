@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
