@@ -9,6 +9,7 @@
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
@@ -36,6 +37,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
@@ -88,6 +91,7 @@
 | [0036-valid-sudoku](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
@@ -119,6 +123,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 ## Breadth-First Search
 |  |
 | ------- |
