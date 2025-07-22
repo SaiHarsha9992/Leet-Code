@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 ## String
@@ -104,6 +105,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
@@ -114,6 +116,7 @@
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0133-clone-graph) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
