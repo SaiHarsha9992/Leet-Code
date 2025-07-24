@@ -29,6 +29,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -40,6 +41,7 @@
 | [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -54,6 +56,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -130,6 +133,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0200-number-of-islands) |
