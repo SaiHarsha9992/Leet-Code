@@ -18,6 +18,7 @@
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3639-zero-array-transformation-i](https://github.com/SaiHarsha9992/Leet-Code/tree/master/3639-zero-array-transformation-i) |
 ## Prefix Sum
 |  |
