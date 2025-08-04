@@ -15,6 +15,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0940-fruit-into-baskets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -130,6 +131,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
