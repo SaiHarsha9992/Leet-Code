@@ -95,6 +95,7 @@
 | [0049-group-anagrams](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0079-word-search) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0556-next-greater-element-iii) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -130,6 +131,7 @@
 | [0133-clone-graph](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0290-word-pattern](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/SaiHarsha9992/Leet-Code/tree/master/1039-find-the-town-judge) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0940-fruit-into-baskets) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/SaiHarsha9992/Leet-Code/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
